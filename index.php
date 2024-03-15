@@ -18,10 +18,6 @@ $eta = $_GET['eta'];
 
 
 
-// faccio un controllo
-// se il valore di eta è maggiore o uguale a 18
-// mi salvo in una variabile che sono maggiorenne
-// altrimenti mi salvo il contrario
 
 
 
