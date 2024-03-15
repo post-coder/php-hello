@@ -16,7 +16,7 @@
         questo parametro rappresenta la pagina da caricare una volta compilato il form
         e a cui passare i parametri indicati dai campi di input
      -->
-    <form action="results.php">
+    <form action="results.php" method="GET">
         <div>
             <label for="">Come ti chiami</label>
             <input name="user-name" type="text" placeholder="Nome">
